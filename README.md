@@ -41,7 +41,7 @@ Me interesa seguir creciendo profesionalmente, aportar valor desde el frontend y
 
 ## 💼 Proyectos Destacados
 
-### 🏥 Plataforma Clínica Médica (Proyecto grupal – Henry)
+### 🏥 Plataforma Clínica Médica (Proyecto grupal – Henry, 2025)
 
 Aplicación web para la gestión de pacientes, médicos y turnos.
 
@@ -64,7 +64,7 @@ Plataforma de comercio electrónico con autenticación y gestión de productos.
 * UI con Tailwind CSS
 * Autenticación con JWT
 
-🔗 Repositorio | Demo
+🔗 Repositorio: https://github.com/CMVerocay/Tech-Market.git
 
 ---
 
