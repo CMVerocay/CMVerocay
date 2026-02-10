@@ -52,7 +52,7 @@ Aplicación web para la gestión de pacientes, médicos y turnos.
 * Integración con API REST
 * Manejo de estado global
 
-🔗 Repositorio | Demo
+🔗 Repositorio: https://github.com/proyectofinal2025-g1/vita-red-app
 
 ---
 
