@@ -7,6 +7,8 @@ Soy desarrolladora Frontend Junior enfocada en crear interfaces modernas, accesi
 
 Me interesa seguir creciendo profesionalmente, aportar valor desde el frontend y aprender continuamente nuevas tecnologías 🚀
 
+📄 [Descarga mi CV ](file:///C:/Users/pc/Desktop/HENRY/Currículum%20-%20Frontend%20Developer.pdf)
+
 ---
 
 ## 🧠 Stack Tecnológico
@@ -52,7 +54,7 @@ Aplicación web para la gestión de pacientes, médicos y turnos.
 * Integración con API REST
 * Manejo de estado global
 
-🔗 Repositorio: https://github.com/proyectofinal2025-g1/vita-red-app
+🔗 [Repositorio](https://github.com/proyectofinal2025-g1/vita-red-app)
 
 ---
 
@@ -64,7 +66,7 @@ Plataforma de comercio electrónico con autenticación y gestión de productos.
 * UI con Tailwind CSS
 * Autenticación con JWT
 
-🔗 Repositorio: https://github.com/CMVerocay/Tech-Market.git
+🔗 [Repositorio](https://github.com/CMVerocay/Tech-Market.git)
 
 ---
 
