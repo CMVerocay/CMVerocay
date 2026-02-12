@@ -7,7 +7,7 @@ Soy desarrolladora Frontend Junior enfocada en crear interfaces modernas, accesi
 
 Me interesa seguir creciendo profesionalmente, aportar valor desde el frontend y aprender continuamente nuevas tecnologías 🚀
 
-📄 [Descarga mi CV ](file:///C:/Users/pc/Desktop/HENRY/Currículum%20-%20Frontend%20Developer.pdf)
+📄 [Descarga mi CV ](https://github.com/CMVerocay/CMVerocay/blob/main/Currículum%20-%20Frontend%20Developer.pdf)
 
 ---
 
@@ -83,7 +83,7 @@ Plataforma de comercio electrónico con autenticación y gestión de productos.
 ## 📫 Contacto
 
 * ✉️ Email: constanzamverocay@gmail.com
-* 💼 LinkedIn: https://linkedin.com/in/constanza-maia-verocay
+* 💼 [LinkedIn](https://linkedin.com/in/constanza-maia-verocay)
 
 ---
 
