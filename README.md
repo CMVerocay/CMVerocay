@@ -7,7 +7,7 @@ Soy desarrolladora Frontend Junior enfocada en crear interfaces modernas, accesi
 
 Me interesa seguir creciendo profesionalmente, aportar valor desde el frontend y aprender continuamente nuevas tecnologías 🚀
 
-📄 [Descarga mi CV ](https://github.com/CMVerocay/CMVerocay/blob/main/Currículum%20-%20Frontend%20Developer.pdf)
+📄 [Mi Currículum](https://github.com/CMVerocay/CMVerocay/blob/main/Currículum%20-%20Frontend%20Developer.pdf)
 
 ---
 
