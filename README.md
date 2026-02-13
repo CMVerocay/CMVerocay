@@ -13,15 +13,11 @@ Me interesa seguir creciendo profesionalmente, aportar valor desde el frontend y
 
 ## 🧠 Stack Tecnológico
 
-**Frontend:** React, Next.js, Vite, Tailwind CSS, Flowbite
-
-**Backend (conocimientos):** Node.js, PostgreSQL
-
-**Estado & Autenticación:** Context API, JWT
-
-**Herramientas:** Git, GitHub, Vercel, Insomnia, Figma
-
-**Lenguajes:** JavaScript, TypeScript
+* **Frontend:** React, Next.js, Vite, Tailwind CSS, Flowbite
+* **Backend (conocimientos):** Node.js, PostgreSQL
+* **Estado & Autenticación:** Context API, JWT
+* **Herramientas:** Git, GitHub, Vercel, Insomnia, Figma
+* **Lenguajes:** JavaScript, TypeScript
 
 ---
 
