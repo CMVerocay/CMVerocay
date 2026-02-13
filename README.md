@@ -14,9 +14,14 @@ Me interesa seguir creciendo profesionalmente, aportar valor desde el frontend y
 ## 🧠 Stack Tecnológico
 
 **Frontend:** React, Next.js, Vite, Tailwind CSS, Flowbite
+
 **Backend (conocimientos):** Node.js, PostgreSQL
+
 **Estado & Autenticación:** Context API, JWT
+
 **Herramientas:** Git, GitHub, Vercel, Insomnia, Figma
+
+**Lenguajes:** JavaScript, TypeScript
 
 ---
 
@@ -42,7 +47,8 @@ Aplicación web para la gestión de pacientes, médicos y turnos.
 Plataforma de comercio electrónico con autenticación y gestión de productos.
 
 * Frontend con React / Next.js
-* UI con Tailwind CSS
+* Backend en Node.js con PostqueSQL
+* UI con Tailwind CSS y Flowbite
 * Autenticación con JWT
 
 🔗 [Repositorio](https://github.com/CMVerocay/Tech-Market.git)
