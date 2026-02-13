@@ -13,31 +13,10 @@ Me interesa seguir creciendo profesionalmente, aportar valor desde el frontend y
 
 ## 🧠 Stack Tecnológico
 
-**Frontend**
-
-* React
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* HTML5 · CSS3
-* Tailwind CSS
-
-**Estado & Autenticación**
-
-* Zustand
-* JWT
-
-**Backend (conocimientos)**
-
-* Node.js
-* PostgreSQL
-
-**Herramientas**
-
-* Git · GitHub
-* Figma
-* Vercel
-* Postman
+**Frontend:** React, Next.js, Vite, Tailwind CSS, Flowbite
+**Backend (conocimientos):** Node.js, PostgreSQL
+**Estado & Autenticación:** Context API, JWT
+**Herramientas:** Git, GitHub, Vercel, Insomnia, Figma
 
 ---
 
@@ -72,7 +51,7 @@ Plataforma de comercio electrónico con autenticación y gestión de productos.
 
 ## 🎓 Educación
 
-**Soy Henry** – Bootcamp Full Stack Web Developer
+**Soy Henry** – Bootcamp Full Stack Web Developer (2025, 2026)
 
 * +800 horas de programación intensiva
 * JavaScript, React, Node.js, PostgreSQL
@@ -87,4 +66,4 @@ Plataforma de comercio electrónico con autenticación y gestión de productos.
 
 ---
 
-✨ *Gracias por visitar mi perfil. Estoy abierta a nuevas oportunidades como Frontend Developer Junior.*
+✨ *Gracias por visitar mi perfil. Estoy abierta a nuevas oportunidades como Frontend Developer Jr.*
